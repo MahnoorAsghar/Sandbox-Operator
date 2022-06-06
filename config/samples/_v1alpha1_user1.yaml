@@ -1,0 +1,9 @@
+apiVersion: my.domain/v1alpha1
+kind: User
+metadata:
+  name: user1
+spec:
+  Name: 'Ammar'
+  OrgName: 'ABC'
+  DeptName: 'Engineering'
+  SandBoxCount: 2
